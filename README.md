@@ -15,14 +15,14 @@
 * 📧 EMAIL : lki_familiar@naver.com
 <br>
 
-# 🌐 Language
+# 🌐 Language Stack
 
 > Windows Stack **:**<br>
-![Windows Terminal](https://img.shields.io/badge/BATCH_SCRIPT-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)<br>
+[![Batch Script](https://img.shields.io/badge/BATCH_SCRIPT-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/Memori-al/Batch)
+[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Memori-al/Powershell)<br>
 
 > Linux Stack **:**<br>
-![Shell](https://img.shields.io/badge/BASH%20SCRIPT-black?style=for-the-badge&logo=GNU%20BASH&logoColor=white)
+[![Shell](https://img.shields.io/badge/BASH%20SCRIPT-black?style=for-the-badge&logo=GNU%20BASH&logoColor=white)](https://github.com/Memori-al/bash-scripts)
 
 <br>
 
@@ -30,16 +30,19 @@
 # OS & Cloud Stack
 
 > OS STACK **:**<br>
-![Linux](https://img.shields.io/badge/CENTOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+[![Linux](https://img.shields.io/badge/CENTOS-262577?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org)
+[![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Qubes](https://img.shields.io/badge/qubeOS-3874D8?style=for-the-badge&logo=qubesos&logoColor=white)](https://www.qubes-os.org/)
+[![Whonix](https://img.shields.io/badge/Whonix-6CAC4D?style=for-the-badge&logo=enpass&logoColor=white)](https://www.whonix.org/)
+<br>
+[![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 <br>
 
 > CLOUD STACK **:**<br>
-![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AZURE](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Akagami](https://img.shields.io/badge/Akagami-0096D6?style=for-the-badge&logo=akamai&logoColor=white)
+[![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![AZURE](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Akagami](https://img.shields.io/badge/Akagami-0096D6?style=for-the-badge&logo=akamai&logoColor=white)](https://www.linode.com/)
 
 
 <br>
