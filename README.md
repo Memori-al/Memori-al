@@ -35,6 +35,7 @@
 [![Qubes](https://img.shields.io/badge/qubeOS-3874D8?style=for-the-badge&logo=qubesos&logoColor=white)](https://www.qubes-os.org/)
 [![Whonix](https://img.shields.io/badge/Whonix-6CAC4D?style=for-the-badge&logo=enpass&logoColor=white)](https://www.whonix.org/)
 <br>
+
 [![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
 <br>
 
