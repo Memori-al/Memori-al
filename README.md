@@ -2,7 +2,7 @@
 * Hi, my name is Kang il Lee!
 
 * I'm crazy about batch scripts & powershell scripts & shell scripts!
-<br> <br>
+<br>
 
 # 🏝️ About me
 
@@ -13,7 +13,7 @@
 * 🌍 My Community : [**`discord`**](https://discord.gg/ev89JpDWnP)
 
 * 📧 EMAIL : lki_familiar@naver.com
-<br><br>
+<br>
 
 # 🌐 Language
 
@@ -24,7 +24,7 @@
 > Linux Stack **:**<br>
 ![Shell](https://img.shields.io/badge/BASH%20SCRIPT-black?style=for-the-badge&logo=GNU%20BASH&logoColor=white)
 
-<br><br>
+<br>
 
 
 # OS & Cloud Stack
