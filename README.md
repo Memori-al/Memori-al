@@ -50,11 +50,11 @@
 ## 1. Computer Engineering
     * Linux Master Level 2
     
-
 ## 2. Challenge
     * Linux Master Level 1
     * Amateur radio license Level 1
     * Internet security specialist Level 2
+    * Engineer Information Processing 
 <hr>
 
  [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/Memori-al/bash-scripts)
