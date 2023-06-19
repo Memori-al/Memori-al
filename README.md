@@ -21,8 +21,6 @@
 [![Batch Script](https://img.shields.io/badge/BATCH_SCRIPT-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/Memori-al/Batch)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Memori-al/Powershell)<br>
 
-<br>
-
 > Linux Stack **:**<br>
 [![Shell](https://img.shields.io/badge/BASH%20SCRIPT-black?style=for-the-badge&logo=GNU%20BASH&logoColor=white)](https://github.com/Memori-al/bash-scripts)
 
@@ -56,15 +54,18 @@
 # 📑 Certificate 
 ## 1. Computer Engineering
 ```css
-    * Linux Master Level 2
+    * Linux Master                      [Lv. 2]
 ```
     
 ## 2. Challenge
 ```css
-    * Linux Master Level 1
-    * Amateur radio license Level 1
-    * Internet security specialist Level 2
+    * Linux Master                      [Lv. 1]
+    * Internet Security Specialist      [Lv. 2]
+    * Internet Security Manager
+    * Network Manager                   [Lv. 2]
     * Engineer Information Processing
+    * Engineer Information Communication
+    * Amateur Radio Telegraph           [Lv. 1]
 ```
 <hr>
 
