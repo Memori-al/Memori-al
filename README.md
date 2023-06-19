@@ -21,6 +21,8 @@
 [![Batch Script](https://img.shields.io/badge/BATCH_SCRIPT-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://github.com/Memori-al/Batch)
 [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/Memori-al/Powershell)<br>
 
+<br>
+
 > Linux Stack **:**<br>
 [![Shell](https://img.shields.io/badge/BASH%20SCRIPT-black?style=for-the-badge&logo=GNU%20BASH&logoColor=white)](https://github.com/Memori-al/bash-scripts)
 
