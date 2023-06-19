@@ -48,7 +48,7 @@
 
 <br>
 
-> OTHER STACK **:**<br>
+> COMMUNICATION STACK **:**<br>
 [![Morse Code](https://img.shields.io/badge/radio%20telegraph-00AC47?style=for-the-badge&logo=audiomack&logoColor=white)](https://www.cq.or.kr/qh_quagm02_007.do)
 
 <br>
@@ -56,18 +56,18 @@
 # 📑 Certificate 
 ## 1. Computer Engineering
 ```css
-    * Linux Master                      [Lv. 2]
+    * [Lv. 2] Linux Master
 ```
     
 ## 2. Challenge
 ```css
-    * Linux Master                      [Lv. 1]
-    * Internet Security Specialist      [Lv. 2]
-    * Internet Security Manager
-    * Network Manager                   [Lv. 2]
+    * [Lv. 1] Amateur Radio Telegraph       
+    * [Lv. 1] Linux Master                      
+    * [Lv. 2] Internet Security Specialist      
+    * [Lv. 2] Internet Security Manager
+    * Network Manager                   
     * Engineer Information Processing
-    * Engineer Information Communication
-    * Amateur Radio Telegraph           [Lv. 1]
+    * Engineer Information Communication       
 ```
 <hr>
 
