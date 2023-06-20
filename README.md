@@ -64,7 +64,6 @@
     * [Lv. 1] Linux Master                      
     * [Lv. 2] Internet Security Specialist      
     * [Lv. 2] Internet Security Manager
-
     * Network Manager                   
     * Engineer Information Processing
     * Engineer Information Communication
