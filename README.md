@@ -7,12 +7,6 @@
 # 🏝️ About me
 
 * 🖥️ I am currently enrolled in the `Computer Science` Department at **Jeonju University**
-
-* 🧛‍♂️	I am operating the largest-scale "`V Rising dedicated server`" in **South Korea**
-
-* 🌍 My Community : [**`discord`**](https://discord.gg/ev89JpDWnP)
-
-* 📧 Email : lki_familiar@naver.com
 <br>
 
 # 🌐 Language Stack
