@@ -47,14 +47,14 @@
 
 <br>
 
-# 📑 Certificate 
-## 1. Computer Engineering
+# 📑 자격증
+## 1. 취득
 ```css
     * 리눅스 마스터 2급
     * 네트워크 관리사 2급
 ```
     
-## 2. Challenge
+## 2. 도전중
 ```css       
     * 리눅스 마스터 1급                    
     * 인터넷 보안 전문가 2급 
