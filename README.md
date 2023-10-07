@@ -50,18 +50,19 @@
 # 📑 Certificate 
 ## 1. Computer Engineering
 ```css
-    * [Lv. 2] Linux Master
+    * 리눅스 마스터 2급
+    * 네트워크 관리사 2급
 ```
     
 ## 2. Challenge
 ```css       
-    * [Lv. 1] Linux Master                      
-    * [Lv. 2] Internet Security Specialist      
-    * [Lv. 2] Internet Security Manager
-    * Network Manager                   
-    * Engineer Information Processing
-    * Engineer Information Communication
-    * Aeronautical Radio Operator
+    * 리눅스 마스터 1급                    
+    * 인터넷 보안 전문가 2급 
+    * 인터넷 보안 관리자 2급              
+    * 정보처리기사
+    * 정보통신기사
+    * 정보보안산업기사
+    * 항공무선통신사
 ```
 <hr>
 
